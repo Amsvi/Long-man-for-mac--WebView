@@ -12,7 +12,8 @@ https://java.com/en/download/manual.jsp
 ----
 2- Secondly, you should Run the .Jar Java File.
 
-hint* if you don't know how to run a Jar file please read thir article over wiki how: 
+hint* if you don't know how to run a Jar file please read thir article over
+wiki how: 
 http://www.wikihow.com/Run-a-.Jar-Java-File.
 
 
